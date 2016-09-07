@@ -1,0 +1,14 @@
+{
+  "name": "uit.js",
+  "homepage": "https://github.com/arsa666/uit",
+  "_release": "dbb9fbbe34",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dbb9fbbe340efece764ebc23ffc54547cbc89dcc"
+  },
+  "_source": "https://github.com/arsa666/uit.git",
+  "_target": "*",
+  "_originalSource": "uit.js",
+  "_direct": true
+}
